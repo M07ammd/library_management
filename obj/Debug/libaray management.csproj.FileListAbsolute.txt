@@ -1,0 +1,12 @@
+C:\Users\DUBAI STORE\Desktop\libaray management\obj\Debug\libaray management.csproj.AssemblyReference.cache
+C:\Users\DUBAI STORE\Desktop\libaray management\obj\Debug\libaray_management.PL.main_form.resources
+C:\Users\DUBAI STORE\Desktop\libaray management\obj\Debug\libaray_management.Properties.Resources.resources
+C:\Users\DUBAI STORE\Desktop\libaray management\obj\Debug\libaray management.csproj.GenerateResource.cache
+C:\Users\DUBAI STORE\Desktop\libaray management\obj\Debug\libaray management.csproj.CoreCompileInputs.cache
+C:\Users\DUBAI STORE\Desktop\libaray management\bin\Debug\libaray management.exe.config
+C:\Users\DUBAI STORE\Desktop\libaray management\bin\Debug\libaray management.exe
+C:\Users\DUBAI STORE\Desktop\libaray management\bin\Debug\libaray management.pdb
+C:\Users\DUBAI STORE\Desktop\libaray management\obj\Debug\libaray management.exe
+C:\Users\DUBAI STORE\Desktop\libaray management\obj\Debug\libaray management.pdb
+C:\Users\DUBAI STORE\Desktop\libaray management\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\DUBAI STORE\Desktop\libaray management\obj\Debug\libaray .F32BF7B3.Up2Date
